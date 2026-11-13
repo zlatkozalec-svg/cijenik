@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cjenik valuta="EUR" datum_objave="2026-11-17" adresa="Vladimira Ruždjaka 19, Zagreb" oznaka_objekta="01">
+  <kategorija naziv="Foto i video paketi">
+    <usluga>
+      <naziv>Essence Paket (1+1 foto i video)</naziv>
+      <opis>Do 700 obrađenih fotografija, online galerija, digitalno preuzimanje, highlight film 8-10 min, QR upload galerija za goste</opis>
+      <maloprodajna_cijena>2500.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>2500.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>Essential Paket (2+1 foto i video / hybrid)</naziv>
+      <opis>Do 1100 obrađenih fotki, online galerija, digitalno preuzimanje, highlight film 10-12 min, QR upload galerija za goste, 2x InstaReel 60-120 sec (vertikalni format)</opis>
+      <maloprodajna_cijena>3500.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>3500.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>Elite Paket (2+2 foto i video)</naziv>
+      <opis>Do 1400 obrađenih fotki, snimanje dronom, 4K rezolucija, online galerija, digitalno preuzimanje, highlight film 10-12 min, QR upload galerija za goste, 3x InstaReel 60-120 sec (vertikalni format)</opis>
+      <maloprodajna_cijena>4500.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>4500.00</sidrena_cijena>
+    </usluga>
+  </kategorija>
+
+  <kategorija naziv="Foto paketi">
+    <usluga>
+      <naziv>INTIMATE</naziv>
+      <opis>Fotografiranje ceremonije (crkva ili matičar), obiteljske i grupne fotografije, portretno fotografiranje mladenaca, trajanje do 5 sati, profesionalna obrada fotografija, digitalna isporuka putem online galerije</opis>
+      <maloprodajna_cijena>500.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>500.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>TIMELESS</naziv>
+      <opis>Fotografiranje do 12 sati (pripreme, ceremonija i proslava), portretno fotografiranje mladenaca, portretne i grupne fotografije na više lokacija, profesionalna obrada svih isporučenih fotografija, online galerija za dijeljenje s obitelji i prijateljima</opis>
+      <maloprodajna_cijena>1100.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>1100.00</sidrena_cijena>
+    </usluga>
+  </kategorija>
+
+  <kategorija naziv="EXTRA">
+    <usluga>
+      <naziv>Snimanje dronom (foto / video / hybrid)</naziv>
+      <opis>Početna cijena usluge snimanja dronom</opis>
+      <maloprodajna_cijena>200.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>200.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>Dodatni InstaReel (60-120 sec)</naziv>
+      <opis>Početna cijena za dodatni vertikalni video format</opis>
+      <maloprodajna_cijena>150.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>150.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>Full ceremonija (30-90 min)</naziv>
+      <opis>Početna cijena za cjelovitu snimku ceremonije</opis>
+      <maloprodajna_cijena>150.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>150.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>Brza isporuka (ovisno o terminu)</naziv>
+      <opis>Ubrzana obrada i isporuka materijala, nadoplata od 15% do 30% na ukupnu cijenu odabranog paketa</opis>
+      <maloprodajna_cijena>15%</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>15%</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>FotoBook</naziv>
+      <opis>Početna cijena za izradu tiskanog foto albuma</opis>
+      <maloprodajna_cijena>150.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>150.00</sidrena_cijena>
+    </usluga>
+    <usluga>
+      <naziv>Prvi ples (tečaj i koreografija)</naziv>
+      <opis>Individualni sat poduke i izrade koreografije za prvi ples (cijena po satu)</opis>
+      <jedinica_mjere>sat</jedinica_mjere>
+      <maloprodajna_cijena>70.00</maloprodajna_cijena>
+      <poseban_oblik_prodaje>ne</poseban_oblik_prodaje>
+      <sidrena_cijena>70.00</sidrena_cijena>
+    </usluga>
+  </kategorija>
+</cjenik>
